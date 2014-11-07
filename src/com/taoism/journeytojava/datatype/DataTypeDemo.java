@@ -24,8 +24,10 @@ public class DataTypeDemo {
 		double x = 9.997;
 		int nx = (int) x;
 		System.out.println(nx);
-		nx = (int) Math.round(nx);
+		nx = (int) Math.round(x);
 		System.out.println(nx);
+
+		System.out.println((byte)127);
 
 	}
 
