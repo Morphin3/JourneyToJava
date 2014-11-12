@@ -38,6 +38,7 @@ public class FileInputOutputDemo {
 			printWriter.println("写入文件啦啦啦");
 			printWriter.println("写入文件啦啦啦");
 			printWriter.println("hahaha");
+			printWriter.close();
 		} catch (FileNotFoundException e) {
 
 		}
