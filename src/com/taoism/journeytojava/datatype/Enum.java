@@ -8,7 +8,6 @@ public class Enum {
 		SMALL, MEDIUM, LARGE, EXTRA_LARGE
 	}
 
-	;
 
 	public static void main(String[] args) {
 		Size s = Size.SMALL;
