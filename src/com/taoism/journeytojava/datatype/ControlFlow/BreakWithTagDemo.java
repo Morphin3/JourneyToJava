@@ -1,4 +1,4 @@
-package com.taoism.journeytojava.datatype.ControlFlow;
+package com.taoism.journeytojava.datatype.controlflow;
 
 import java.util.Scanner;
 
